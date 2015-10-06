@@ -1,0 +1,10 @@
+*{
+	background-color: #585450;
+	color: white;
+}
+h3 ul li{
+	list-style-type: circle;
+}
+td{
+	padding-right: 10px;
+}
